@@ -8,4 +8,4 @@
 - 根目录下的`app.json`是整个小程序的一些配置项，可以参考[微信开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)进行修改。
 
 ## 初始化模型图
-![image](https://user-images.githubusercontent.com/74706849/143558577-3db4ae23-390e-4e27-9ba4-36f33df39de8.png)
+![image](https://user-images.githubusercontent.com/74706849/143558956-74f29bfa-defc-4ef2-879f-5811523242c4.png)
