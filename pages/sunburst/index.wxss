@@ -1,0 +1,9 @@
+/* pages/chinamap/index.wxss */
+#map {
+  height: 100vh;
+  width: 100%;
+}
+ec-canvas {
+  width: 100%;
+  height: 100%;
+}
