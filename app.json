@@ -1,13 +1,14 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/sunburst/index"
+    "pages/sunburst/index",
+    "pages/list/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "backgroundColor": "#eee",
     "navigationBarBackgroundColor": "#eee",
-    "navigationBarTitleText": "杰哥的小程序",
+    "navigationBarTitleText": "Echart小程序",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"
